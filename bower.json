@@ -1,0 +1,17 @@
+{
+  "name": "learning",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rafikkamal <rafik.rkn@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
